@@ -1,0 +1,1 @@
+[04-Feb-2017 15:49:12 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sgesecurityfair/public_html/SGE/Conferencias/conferencias.php on line 18
